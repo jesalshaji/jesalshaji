@@ -44,12 +44,6 @@ practices in software development and system design.
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mr-MadCruzer.Mr-MadCruzer&"  />
-</div>
-
-###
-
 <h3 align="left">🪢 | Lets Connect</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jesal-shaji-)
