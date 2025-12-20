@@ -76,8 +76,8 @@ practices in software development and system design.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jesal-shaji-)
-[![Email](https://img.shields.io/badge/Email-gray?style=flat&logo=gmail)](mailto:yourname@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-gray?style=flat&logo=gmail)](mailto:jezlshaji@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](https://jezlcruzz-portfolio.netlify.app/)
 
 
 <div>
