@@ -2,8 +2,6 @@
 
 <p align="left">💻 Full-Stack Developer | React, Python, Java | SQL & MongoDB
 
-###
-
 <h2 align="left">About me</h5>
 
 I’m a Full-Stack Developer with hands-on experience building web applications using
@@ -21,19 +19,17 @@ practices in software development and system design.
 
 **Frontend**
 - React, JavaScript, HTML, CSS
-
+  
 **Backend**
 - Python, Java
-
+  
 **Databases**
 - MongoDB, SQL
-
+  
 **Tools & Others**
 - Git, GitHub, VS Code
 
 <h3 align="left">🤖 | Learning</h3>
-
-###
 
 - Backend architecture
 - REST APIs & authentication
