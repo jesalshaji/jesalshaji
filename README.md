@@ -1,16 +1,10 @@
 <h1 align="left">Hii 👋 It's me Jezl_Cruzz</h4>
 
-###
-
 <p align="left">💻 Full-Stack Developer | React, Python, Java | SQL & MongoDB
 
 ###
 
 <h2 align="left">About me</h5>
-
-###
-
-<br clear="both">
 
 I’m a Full-Stack Developer with hands-on experience building web applications using
 **React, Python, Java, SQL, and MongoDB**.
@@ -23,14 +17,7 @@ practices in software development and system design.
 
 ###
 
-<br clear="both">
-
-
-<h4 align="left">🛠️ Tech I Work With</h4>
-
-###
-
-<br clear="both">
+<h3 align="left">🛠️ Tech I Work With</h3>
 
 **Frontend**
 - React, JavaScript, HTML, CSS
@@ -43,8 +30,6 @@ practices in software development and system design.
 
 **Tools & Others**
 - Git, GitHub, VS Code
-
-
 
 <h3 align="left">🤖 | Learning</h3>
 
@@ -70,10 +55,6 @@ practices in software development and system design.
 ###
 
 <h3 align="left">🪢 | Lets Connect</h3>
-
-###
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jesal-shaji-)
 [![Email](https://img.shields.io/badge/Email-gray?style=flat&logo=gmail)](mailto:jezlshaji@gmail.com)
