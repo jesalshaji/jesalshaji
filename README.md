@@ -1,82 +1,58 @@
-<h1 align="left">Hii 👋 It's me Jezl_Cruzz</h1>
+<h1 align="left">Hii 👋 It's me Jezl_Cruzz</h4>
 
 ###
 
-<p align="left">💻 Developer | Lifelong Learner | Tech Enthusiast</p>
+<p align="left">💻 Full-Stack Developer | React, Python, Java | SQL & MongoDB
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me</h5>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzh0bmcyMXV3cTVyOHpodW9nbjlmcnZzODhoNWFmeTJ0MTNmdjU1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhXxGTTyBfKk7iBU40/giphy.gif"  />
+I’m a Full-Stack Developer with hands-on experience building web applications using
+**React, Python, Java, SQL, and MongoDB**.
+
+I enjoy developing clean, scalable, and user-focused applications, working across
+both frontend and backend. I’m continuously improving my skills and learning best
+practices in software development and system design.
+
+💡 Interested in real-world projects, open-source collaboration, and backend scalability.
 
 ###
 
-<p align="left">🔧 Build projects that solve real problems<br><br>🌐 Develop web applications & interactive tools<br><br>📚 Constantly learning new frameworks, languages, and best practices<br><br>🤝 Collaborate on open-source and community projects</p>
+<br clear="both">
+
+
+<h4 align="left">🛠️ Tech I Work With</h4>
 
 ###
 
-<h2 align="left">🛠️ Tech I Work With</h2>
+<br clear="both">
 
-###
+**Frontend**
+- React, JavaScript, HTML, CSS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="35" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="35" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="apache logo"  />
-</div>
+**Backend**
+- Python, Java
 
-###
+**Databases**
+- MongoDB, SQL
+
+**Tools & Others**
+- Git, GitHub, VS Code
+
+
 
 <h3 align="left">🤖 | Learning</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="25" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="25" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="25" alt="blender logo"  />
-</div>
+- Backend architecture
+- REST APIs & authentication
+- Database optimization
 
 ###
 
@@ -97,24 +73,12 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/jesal-shaji-" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="jezlshaji@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-</div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph.svg">
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jesal-shaji-)
+[![Email](https://img.shields.io/badge/Email-gray?style=flat&logo=gmail)](mailto:yourname@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](https://yourportfolio.com)
 
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
