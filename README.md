@@ -26,7 +26,7 @@ A multi-tenant construction management SaaS targeting Sri Lanka & South Asia.
 ## 📌 Experience
 
 - Full-Stack Developer @ Contax Marketing (2024–2025)
-- Freelance Developer — 5+ client projects delivered
+- Freelance Developer — 8+ client projects delivered
 - Hackathon: Skills-to-Opportunity platform using Gemini API
 
 ---
