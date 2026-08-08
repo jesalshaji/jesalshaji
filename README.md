@@ -4,18 +4,18 @@
        AI • AUTOMATION • FULL-STACK
 
        Building intelligent systems
-       @ CruziLux
+       @ CRUZILUX
 
 └──────────────────────────────────────────────┘
 
 
 # Hey, I'm Jesal Shaji 👋
 
-**Full-Stack Developer · AI Automation Engineer · Founder @ CruziLux**
+**Full-Stack Developer · AI Automation Engineer · Founder @ CRUZILUX**
 
 I build full-stack applications, AI-powered systems, and business automation tools.
 
-Currently studying **Artificial Intelligence at Johannes Kepler University Linz, Austria**, while building **CruziLux** — a digital agency focused on AI, automation, and modern digital products.
+Currently studying **Artificial Intelligence at Johannes Kepler University Linz, Austria** and building **CruziLux**, where I develop AI-powered systems, automation, and digital products.
 
 ---
 
@@ -52,44 +52,33 @@ The goal is to build an AI system that can naturally communicate with customers 
 
 ## 🏢 CruziLux
 
-**CruziLux** is my digital agency and product-building venture focused on creating modern digital experiences and AI-powered business solutions.
+**AI · Automation · Digital Products**
 
-### What I build
+CruziLux is my digital agency and product-building venture focused on
+AI-powered business solutions and modern digital experiences.
 
-- 🤖 AI Agents & Voice AI
-- ⚙️ Business Automation
-- 🌐 Full-Stack Web Applications
-- 📱 Digital Products
-- 🧩 Custom Business Systems
-- 🚀 SaaS & Internal Tools
+**What I build**
+
+`AI AGENTS` · `VOICE AI` · `BUSINESS AUTOMATION`  
+`FULL-STACK APPS` · `DIGITAL PRODUCTS` · `SAAS`
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages** · JavaScript · TypeScript · Python
 
-JavaScript · TypeScript · Python · Java
+**Frontend** · React · Next.js · Flutter · Tailwind CSS
 
-### Frontend
+**Backend** · FastAPI · Node.js · Express · Django · WebSockets
 
-React · Next.js · Flutter · Tailwind CSS
+**Databases** · PostgreSQL · MongoDB · SQLite · Supabase
 
-### Backend
+**AI & Automation** · AI APIs · AI Agents · Voice AI · Claude API · Gemini API · n8n
 
-FastAPI · Node.js · Express · Django · WebSockets
+**Tools & Infrastructure** · Git · Docker · AWS · Firebase · Linux
 
-### Databases
-
-PostgreSQL · MongoDB · MySQL · SQLite · Supabase
-
-### AI & Automation
-
-AI APIs · Voice AI · AI Agents · Claude API · Gemini API · n8n
-
-### Tools & Infrastructure
-
-Git · GitHub · Docker · AWS · Firebase · Linux
 
 ---
 
