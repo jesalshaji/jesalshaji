@@ -27,16 +27,24 @@ Currently studying **Artificial Intelligence at Johannes Kepler University Linz,
 
 The goal is to build an AI system that can naturally communicate with customers and eventually handle real business workflows.
 
-**Current focus:**
+<details>
+<summary>🔍 More about Emma</summary>
 
-- 🎙️ Voice conversations
-- 🧠 AI-powered conversations
-- 📚 Business knowledge
-- 💾 Memory and context
-- 🌍 Multilingual communication
-- 📅 Appointment workflows
-- ⚙️ Business automation
-- 🔗 CRM and external integrations
+### Current capabilities
+
+- Voice interaction
+- AI conversation
+- Business knowledge
+- Context handling
+
+### Future direction
+
+- Memory
+- Appointments
+- CRM integration
+- Business automation
+
+</details>
 
 > Building practical AI systems that can do more than just generate text.
 
@@ -90,27 +98,39 @@ Git · GitHub · Docker · AWS · Firebase · Linux
 ### 🤖 Emma
 **AI Voice Receptionist · CruziLux**
 
-An AI receptionist designed to communicate with customers naturally and eventually automate real-world business tasks.
+AI-powered voice receptionist focused on natural customer
+conversations and business automation.
+
+`AI` `Voice AI` `Python` `WebSockets`
+
+[🔗 Repository](https://github.com/jesalshaji/Cruzilux-emma-ai.git)
 
 ---
 
 ### 🏢 CruziLux
 **AI & Digital Solutions**
 
-A digital agency focused on AI automation, full-stack development, and modern digital products.
+Digital agency focused on AI automation, full-stack development,
+and modern digital products.
+
+`AI` `Automation` `Full-Stack`
+
+[🌐 Website-still in progres ](vvvv)
 
 ---
 
 ### 🏗️ Construvisio
-**Construction Management SaaS**
 
-A multi-tenant construction management platform designed for businesses in South Asia.
+**CONSTRUCTION MANAGEMENT SaaS**
 
-- 13-role permission system
-- Offline-first architecture
-- AI-generated reports
-- Multi-tenant architecture
-- Flutter + Supabase
+Multi-tenant construction management platform for businesses in South Asia.
+
+`13 ROLES` · `OFFLINE-FIRST` · `AI REPORTS` · `MULTI-TENANT`
+
+**Stack:** Flutter · Supabase · PostgreSQL · Python · Docker
+
+[🔗 View Repository](https://github.com/jesalshaji/Construvisio-.git)
+> 🚧 **IN DEVELOPMENT**
 
 ---
 
@@ -143,7 +163,11 @@ Full-Stack Systems
     ↓
 Real-World AI Products
 
-Currently building Emma and expanding the CruziLux ecosystem.
+```
+
+Currently building **Emma** and expanding the **CruziLux** ecosystem.
+
+> **CRUZILUX** · AI · Automation · Digital Products
 
 
 ────────────────────────────────
@@ -151,20 +175,7 @@ Currently building Emma and expanding the CruziLux ecosystem.
 
 ## 🤝 Connect
 
-[
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesal%20Shaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesal-shaji)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Jezl%20Cruzz-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jezlcruzz.online)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jezlshaji@gmail.com)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
-
-](https://linkedin.com/in/jesal-shaji)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)
-
-](https://jezlcruzz.online)
-[
-
-![Email](https://img.shields.io/badge/Email-gray?style=flat&logo=gmail)
-
-](mailto:jezlshaji@gmail.com)
-
-📍 Linz, Austria ·
