@@ -11,7 +11,7 @@
 
 # Hey, I'm Jesal Shaji 👋
 
-**Full-Stack Developer · AI Automation Engineer · Founder @ CRUZILUX**
+**Full-Stack Developer · AI Automation Engineer · Founder   @ CRUZILUX**
 
 I build full-stack applications, AI-powered systems, and business automation tools.
 
