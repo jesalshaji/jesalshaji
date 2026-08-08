@@ -143,7 +143,7 @@ A Python-based Discord bot and community system with server management, automati
 
 ## 💼 Experience
 
-- **Full-Stack Developer @ Contax Marketing** — 2024–2025
+- **Full-Stack Developer @ Contax CRM Systems** — 2024–2025
 - **Freelance Full-Stack Developer** — 8+ client projects delivered
 - **AI & Hackathon Projects** — AI-powered applications using modern AI APIs
 - **4+ years of development experience** across web applications, automation, and digital products
