@@ -1,170 +1,72 @@
-┌──────────────────────────────────────────────┐
-                JEZL CRUZZ
+# Jesal Shaji
 
-       AI • AUTOMATION • FULL-STACK
+**Full-Stack Developer · AI & Automation · Founder @ CruziLux**
 
-       Building intelligent systems
-       @ CRUZILUX
+I build full-stack applications and practical AI systems — voice agents, business automation tools, and products people actually use. Currently studying Artificial Intelligence at Johannes Kepler University (JKU) Linz, Austria.
 
-└──────────────────────────────────────────────┘
-
-
-# Hey, I'm Jesal Shaji 👋
-
-**Full-Stack Developer · AI Automation Engineer · Founder   @ CRUZILUX**
-
-I build full-stack applications, AI-powered systems, and business automation tools.
-
-Currently studying **Artificial Intelligence at Johannes Kepler University Linz, Austria** and building **CruziLux**, where I develop AI-powered systems, automation, and digital products.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesal%20Shaji-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesal-shaji)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jezlcruzz.online-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://jezlcruzz.online)
+[![Email](https://img.shields.io/badge/Email-jezlshaji@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jezlshaji@gmail.com)
 
 ---
 
-## 🚀 What I'm Building
+## Projects
 
-### 🤖 Emma — AI Receptionist
+### Emma — AI Voice Receptionist
+An AI receptionist that holds natural customer conversations and is growing into real business workflows: persistent memory, appointment handling, CRM integration.
 
-**Emma** is an AI-powered voice receptionist being developed by **CruziLux**.
+`Python` `WebSockets` `Voice AI` `LLM APIs`
 
-The goal is to build an AI system that can naturally communicate with customers and eventually handle real business workflows.
+[Repository](https://github.com/jesalshaji/Cruzilux-emma-ai)
 
-<details>
-<summary>🔍 More about Emma</summary>
+### Construvisio — Construction Management SaaS
+Multi-tenant construction management platform for businesses in South Asia. 13 user roles, offline-first data sync, AI-generated reports. In active development.
 
-### Current capabilities
+`Flutter` `Supabase` `PostgreSQL` `Python` `Docker`
 
-- Voice interaction
-- AI conversation
-- Business knowledge
-- Context handling
+[Repository](https://github.com/jesalshaji/Construvisio-)
 
-### Future direction
+### Cruzz Nexus — Discord Automation Platform
+Community management and automation system: server tooling, scheduled actions, extensible command features.
 
-- Memory
-- Appointments
-- CRM integration
-- Business automation
+`Python` `Discord API`
 
-</details>
+### CruziLux — AI & Digital Solutions
+My venture: AI agents, voice AI, business automation and full-stack digital products for clients and users.
 
-> Building practical AI systems that can do more than just generate text.
+[Website](https://cruzilux.com/)
 
 ---
 
-## 🏢 CruziLux
+## Experience
 
-**AI · Automation · Digital Products**
-
-CruziLux is my digital agency and product-building venture focused on
-AI-powered business solutions and modern digital experiences.
-
-**What I build**
-
-`AI AGENTS` · `VOICE AI` · `BUSINESS AUTOMATION`  
-`FULL-STACK APPS` · `DIGITAL PRODUCTS` · `SAAS`
-
----
-
-
-## 🛠️ Tech Stack
-
-**Languages** · JavaScript · TypeScript · Python
-
-**Frontend** · React · Next.js · Flutter · Tailwind CSS
-
-**Backend** · FastAPI · Node.js · Express · Django · WebSockets
-
-**Databases** · PostgreSQL · MongoDB · SQLite · Supabase
-
-**AI & Automation** · AI APIs · AI Agents · Voice AI · Claude API · Gemini API · n8n
-
-**Tools & Infrastructure** · Git · Docker · AWS · Firebase · Linux
-
-
----
-
-## 📌 Selected Projects
-
-### 🤖 Emma
-**AI Voice Receptionist · CruziLux**
-
-AI-powered voice receptionist focused on natural customer
-conversations and business automation.
-
-`AI` `Voice AI` `Python` `WebSockets`
-
-[🔗 Repository](https://github.com/jesalshaji/Cruzilux-emma-ai.git)
-
----
-
-### 🏢 CruziLux
-**AI & Digital Solutions**
-
-Digital agency focused on AI automation, full-stack development,
-and modern digital products.
-
-`AI` `Automation` `Full-Stack`
-
-[🌐 Website  ](https://cruzilux.com/)
-
----
-
-### 🏗️ Construvisio
-
-**CONSTRUCTION MANAGEMENT SaaS**
-
-Multi-tenant construction management platform for businesses in South Asia.
-
-`13 ROLES` · `OFFLINE-FIRST` · `AI REPORTS` · `MULTI-TENANT`
-
-**Stack:** Flutter · Supabase · PostgreSQL · Python · Docker
-
-[🔗 View Repository](https://github.com/jesalshaji/Construvisio-.git)
-> 🚧 **IN DEVELOPMENT**
-
----
-
-### 🤖 Cruzz Nexus
-**Discord Automation & Community Platform**
-
-A Python-based Discord bot and community system with server management, automation, and extensible features.
-
----
-
-## 💼 Experience
-
-- **Full-Stack Developer @ Contax CRM Systems** — 2024–2025
+- **Full-Stack Developer** — Contax CRM Systems (2024–2025)
 - **Freelance Full-Stack Developer** — 8+ client projects delivered
-- **AI & Hackathon Projects** — AI-powered applications using modern AI APIs
-- **4+ years of development experience** across web applications, automation, and digital products
+- **4+ years** building web applications, automation systems and AI products
 
 ---
 
-## 🎯 Currently Focused On
+## Education
 
-```text
-AI Agents
-    ↓
-Voice AI
-    ↓
-Business Automation
-    ↓
-Full-Stack Systems
-    ↓
-Real-World AI Products
+- **BSc Artificial Intelligence** — Johannes Kepler University Linz, Austria (ongoing)
 
-```
+---
 
-Currently building **Emma** and expanding the **CruziLux** ecosystem.
+## Tech Stack
 
-> **CRUZILUX** · AI · Automation · Digital Products
+| Area | Tools |
+|---|---|
+| Languages | JavaScript, TypeScript, Python |
+| Frontend | React, Next.js, Flutter, Tailwind CSS |
+| Backend | FastAPI, Node.js, Express, Django, WebSockets |
+| Databases | PostgreSQL, MongoDB, SQLite, Supabase |
+| AI & Automation | LLM APIs (Claude, Gemini), AI agents, Voice AI, n8n |
+| Infrastructure | Git, Docker, AWS, Firebase, Linux |
 
+---
 
-────────────────────────────────
+## What I'm focused on
 
-
-## 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesal%20Shaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesal-shaji)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Jezl%20Cruzz-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jezlcruzz.online)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jezlshaji@gmail.com)
-
+- Shipping **Emma** into production use
+- Expanding the CruziLux product ecosystem
+- Deepening applied AI: agents, voice, and automation that saves real work
