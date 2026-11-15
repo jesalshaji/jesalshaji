@@ -1,6 +1,4 @@
-# Jesal Shaji
-
-**Full-Stack Developer · AI & Automation · Founder @ CruziLux**
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Jesal%20Shaji&fontSize=42&fontColor=ffffff&desc=Full-Stack%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Founder%20%40%20CruziLux&descSize=16&descColor=c9c9ff&descAlignY=68)
 
 I build full-stack applications and practical AI systems — voice agents, business automation tools, and products people actually use. Currently studying Artificial Intelligence at Johannes Kepler University (JKU) Linz, Austria.
 
@@ -55,14 +53,16 @@ My venture: AI agents, voice AI, business automation and full-stack digital prod
 
 ## Tech Stack
 
-| Area | Tools |
-|---|---|
-| Languages | JavaScript, TypeScript, Python |
-| Frontend | React, Next.js, Flutter, Tailwind CSS |
-| Backend | FastAPI, Node.js, Express, Django, WebSockets |
-| Databases | PostgreSQL, MongoDB, SQLite, Supabase |
-| AI & Automation | LLM APIs (Claude, Gemini), AI agents, Voice AI, n8n |
-| Infrastructure | Git, Docker, AWS, Firebase, Linux |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,flutter,tailwind,fastapi,nodejs,express,django,postgres,mongodb,supabase,docker,aws,firebase,git,linux&theme=dark" alt="tech stack" />
+</a>
+
+**AI & Automation:** LLM APIs (Claude, Gemini) · AI Agents · Voice AI · n8n
+
+---
+
+![stats](https://github-readme-stats.vercel.app/api?username=jesalshaji&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesalshaji&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
