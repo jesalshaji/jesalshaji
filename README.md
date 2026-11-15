@@ -40,7 +40,7 @@ My venture: AI agents, voice AI, business automation and full-stack digital prod
 ## Experience
 
 - **Full-Stack Developer** — Contax CRM Systems (2024–2025)
-- **Freelance Full-Stack Developer** — 8+ client projects delivered
+- **Freelance Full-Stack Developer** — 15+ client projects delivered
 - **4+ years** building web applications, automation systems and AI products
 
 ---
