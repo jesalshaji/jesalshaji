@@ -12,12 +12,13 @@ I build full-stack applications and practical AI systems — voice agents, busin
 
 ## Projects
 
-### Emma — AI Voice Receptionist
-An AI receptionist that holds natural customer conversations and is growing into real business workflows: persistent memory, appointment handling, CRM integration.
+### Voice Agents & Automation Workflows — CruziLux
+Voice agent systems that hold natural conversations and automation workflows that connect AI into real business processes: routing, follow-ups, integrations.
 
-`Python` `WebSockets` `Voice AI` `LLM APIs`
+`Python` `WebSockets` `Voice AI` `LLM APIs` `n8n`
 
-[Repository](https://github.com/jesalshaji/Cruzilux-emma-ai)
+### AI Model Capability Testing
+Hands-on benchmarking of AI model capabilities — reasoning, coding, instruction-following and agentic behaviour — to find out what each model can actually do in real workflows before it goes into a product.
 
 ### Construvisio — Construction Management SaaS
 Multi-tenant construction management platform for businesses in South Asia. 13 user roles, offline-first data sync, AI-generated reports. In active development.
@@ -67,6 +68,6 @@ My venture: AI agents, voice AI, business automation and full-stack digital prod
 
 ## What I'm focused on
 
-- Shipping **Emma** into production use
+- Building voice agents and automation workflows at CruziLux
+- Testing and benchmarking AI model capabilities for real-world use
 - Expanding the CruziLux product ecosystem
-- Deepening applied AI: agents, voice, and automation that saves real work
