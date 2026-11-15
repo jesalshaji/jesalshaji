@@ -61,11 +61,6 @@ My venture: AI agents, voice AI, business automation and full-stack digital prod
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=jesalshaji&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesalshaji&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## What I'm focused on
 
 - Building voice agents and automation workflows at CruziLux
