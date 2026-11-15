@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Jesal%20Shaji&fontSize=42&fontColor=ffffff&desc=Full-Stack%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Founder%20%40%20CruziLux&descSize=16&descColor=c9c9ff&descAlignY=68)
+![Jesal Shaji](assets/banner.svg)
 
 I build full-stack applications and practical AI systems — voice agents, business automation tools, and products people actually use. Currently studying Artificial Intelligence at Johannes Kepler University (JKU) Linz, Austria.
 

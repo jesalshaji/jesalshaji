@@ -1,0 +1,36 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jesal Shaji">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f0c29"/>
+      <stop offset="0.5" stop-color="#302b63"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c6cff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#4a3aff" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#302b63" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7c6cff" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="500" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c6cff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9d8bff"/>
+      <stop offset="1" stop-color="#7c6cff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <path d="M0 235 C 200 205, 380 265, 600 240 C 820 215, 1000 260, 1200 230 L1200 300 L0 300 Z" fill="url(#wave1)"/>
+  <path d="M0 258 C 220 235, 420 282, 640 262 C 860 242, 1040 278, 1200 255 L1200 300 L0 300 Z" fill="url(#wave2)"/>
+
+  <circle cx="1080" cy="70" r="2.5" fill="#9d8bff" opacity="0.7"/>
+  <circle cx="1120" cy="105" r="1.8" fill="#9d8bff" opacity="0.5"/>
+  <circle cx="1040" cy="115" r="1.5" fill="#ffffff" opacity="0.35"/>
+  <circle cx="150" cy="80" r="2" fill="#9d8bff" opacity="0.5"/>
+  <circle cx="185" cy="115" r="1.5" fill="#ffffff" opacity="0.3"/>
+
+  <text x="600" y="128" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="6" fill="#ffffff">JESAL SHAJI</text>
+  <rect x="500" y="152" width="200" height="2.5" rx="1.25" fill="url(#accent)"/>
+  <text x="600" y="192" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" letter-spacing="3" fill="#c9c9ff">FULL-STACK &#183; AI &amp; AUTOMATION &#183; FOUNDER @ CRUZILUX</text>
+</svg>
